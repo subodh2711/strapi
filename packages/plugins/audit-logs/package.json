@@ -1,0 +1,25 @@
+{
+  "name": "@strapi/plugin-audit-logs",
+  "version": "0.0.0",
+  "description": "Content API audit logging plugin",
+  "main": "server/src/index.ts",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "keywords": [
+    "strapi",
+    "plugin",
+    "audit",
+    "logging"
+  ],
+  "strapi": {
+    "name": "audit-logs",
+    "displayName": "Audit Logs",
+    "kind": "plugin",
+    "description": "Automated audit logging for Content API",
+    "required": false
+  },
+  "engines": {
+    "node": ">=18",
+    "npm": ">=9"
+  }
+}

@@ -9390,6 +9390,12 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"@strapi/plugin-audit-logs@workspace:packages/plugins/audit-logs":
+  version: 0.0.0-use.local
+  resolution: "@strapi/plugin-audit-logs@workspace:packages/plugins/audit-logs"
+  languageName: unknown
+  linkType: soft
+
 "@strapi/plugin-cloud@workspace:packages/plugins/cloud":
   version: 0.0.0-use.local
   resolution: "@strapi/plugin-cloud@workspace:packages/plugins/cloud"
